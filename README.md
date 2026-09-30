@@ -1,5 +1,9 @@
 ﻿# nlp-spam-sentiment-classification
 
+## Dataset
+- Source: [Kaggle — sms-spam-collection-dataset]([https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset]) (auto-downloaded with `kagglehub`)
+ 
+
 ## Project Structure
 
 ```
